@@ -1,0 +1,2 @@
+- Chain myself so nothing can enchant me.
+- Call for the bounty on my head to guide adventures to destroy the beast.

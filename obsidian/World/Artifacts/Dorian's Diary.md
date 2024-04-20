@@ -1,0 +1,1 @@
+The diary of [[Dorian]], containing poetic descriptions of his plans to seduce [[Lunara]] and designs of [[Amulet of Slow Consumption]]. Written in elfish.

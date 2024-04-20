@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "2c2f54b32a08a4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5f84e8d381c614d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb47a8ca47e98a89",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bd87efb26c83a1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "569acd33bbc64ec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d99ebbd8a93f80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb22f5e4370b8670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9d2ec7d0d83da39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ddc2ccda1c7d213",
+    "type": "split",
+    "children": [
+      {
+        "id": "925a049a07c2f298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15c04579fe8e9a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81d02b22f9167f80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72776a0fc7a2349b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d89be91176b710f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f4b85807fe6b03e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c849e1031df529d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a6c523ea128c064d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e81d3f9fd247a9",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "cb47a8ca47e98a89",
+  "lastOpenFiles": [
+    "obsidian/Story/Act 0.md",
+    "obsidian/Story/Act 1.md",
+    "obsidian/Story/Act 2.md",
+    "obsidian/Story/Act 3.md",
+    "obsidian/Story/Draft.md",
+    "obsidian/Story/Player Questionnaire.md",
+    "obsidian/World/Characters & Factions/Boy.md",
+    "obsidian/World/Artifacts/Dorian's Diary.md",
+    "obsidian/World/Artifacts/Mayor's Plan.md",
+    "obsidian/World/Artifacts/Amulet of Slow Consumption.md",
+    "obsidian/World/Artifacts/Missing Mayor Order.md",
+    "obsidian/World/Artifacts/Address Book.md",
+    "obsidian/World/Monsters/False Hydra.md",
+    "obsidian/World/Locations/Pour Yourself.md",
+    "obsidian/World/Locations/Catavern.md",
+    "obsidian/World/Locations/Townhall.md",
+    "obsidian/World/Locations/Mayor's House.md",
+    "obsidian/World/Locations/Heyholn.md",
+    "obsidian/World/Characters & Factions/Corin Swiftgale.md",
+    "obsidian/World/Characters & Factions/Dorian.md",
+    "obsidian/World/Characters & Factions/Elandor.md",
+    "obsidian/World/Characters & Factions/Eldric Baneswood.md",
+    "obsidian/World/Characters & Factions/Gambaridze.md",
+    "obsidian/World/Characters & Factions/Gearheart.md",
+    "obsidian/World/Characters & Factions/Gearheart.png",
+    "obsidian/World/Characters & Factions/Kim.md",
+    "obsidian/World/Characters & Factions/Lunara.md",
+    "obsidian/Games/20240427/Announcement.png",
+    "obsidian/Games/20240427",
+    "obsidian/music/4 (Battle) Separate Ways (Worlds Apart).mp3",
+    "obsidian/music/2 (Battle) Bastard.mp3",
+    "obsidian/music/4 (Riddle) Core of the Riddle.mp3",
+    "obsidian/music/3 (Tavern) Cancion Del Mariachi.mp3",
+    "obsidian/music/4 (Final) Lord of the Dead.mp3",
+    "obsidian/music/4 (Final) Laughing till the End.mp3",
+    "obsidian/music/4 (Resistance) Master of My Own Fate.mp3",
+    "obsidian/music/4 (Final) The Cosmic Balance.mp3",
+    "obsidian/music/3 (Elevation) My Dark Disquiet.mp3",
+    "obsidian/World/Characters & Factions/Boy.png",
+    "obsidian/World/Characters & Factions/Gambaridze at his Prime.png",
+    "obsidian/World/Characters & Factions/Gambaridze the Janitor.png",
+    "obsidian/World/Artifacts/Amulet of Slow Consumption.png",
+    "obsidian/World/Artifacts/Amulet of Slow Consumption 1.png",
+    "obsidian/World/Characters & Factions/Eldric Baneswood.png",
+    "obsidian/World/Characters & Factions/Lunara the Benevolent.png",
+    "obsidian/World/Characters & Factions/Lunara the Avengeful.png"
+  ]
+}
