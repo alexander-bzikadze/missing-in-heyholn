@@ -11,7 +11,7 @@
 - **Goal**: Work for the good of his people
 - **Attitude**: Committed, protective
 - **Stake**: Invested his whole life
-- **Sexuality**: Male, homosexual
+- **Sexuality**: Homosexual
 ## Biography
 Eldric Baneswood served as the mayor of Heyholn, a quaint town that thrived under his leadership until its recent descent into mystery and desolation. Prior to his disappearance, Eldric was known for his dedication to Heyholn's prosperity and for being a staunch advocate for its people. The son of a local historian, he inherited a deep appreciation for the town's history and lore, which fueled his efforts to protect it from encroachments and dangers. Currently eaten by the false hydra.
 ## Character

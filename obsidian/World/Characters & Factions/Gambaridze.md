@@ -11,7 +11,7 @@
 - **Goal**: Become a deity
 - **Attitude**: Ambitious, calculative
 - **Stake**: Invested his whole life
-- **Sexuality**: Male, homosexual
+- **Sexuality**: Bisexual
 ## Biography
 Alastar Gambaridze is a figure cloaked in mystery and intrigue. Tales whisper of his years at the Baldur's Gate academy, where he fine-tuned his skills in magic and melody. His journey took a darker turn when he ventured into Avernus, facing Zariel, the archdevil ruling the first layer of the Nine Hells. 
 

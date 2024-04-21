@@ -1,6 +1,9 @@
 The false hydra was born in the Feywild out of [[Lunara]]'s emotion of betrayal and sorrow and hate. It consumes creatures and eliminates all living memories of them, while being able to mass charm witnesses into forgetting what they saw and/or using illusions to stay undetected through singing a magic song.
 
 At the moment, it is guarding [[Lunara]]'s prison and hunts down all Heyholn citizens whose minds [[Lunara]] invades in hope of finding an escape. 
+## Appearance
+A multiheaded, unnatural pale white creature with human-like faces.
+![[False Hydra.png]]
 ## False Hydra Song
 False Hydra can emit a song with one of its heads when it is not fighting enemies. The song makes victims follow false hydra's commands and have no recollection of seeing the false hydra.
 

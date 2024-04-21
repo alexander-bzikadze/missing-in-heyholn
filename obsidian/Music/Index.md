@@ -16,7 +16,7 @@ Jarlestam, P. (2021). *Swamps* from *Valheim OST*. Available at: https://www.you
 Przybyłowicz, M. (2015). *Hunt of Be Hunted* from *The Witcher 3: Wild Hunt OST*. Available at: https://www.youtube.com/watch?v=0Ccpv3mz4HI&ab_channel=VGameOSTs. Accessed 20 Apr. 2024.
 ## He Who Leads The Hunt
 Silantiev, D.V. (2018a). *He Who Leads The Hunt* from *Pathfinder: Kingmaker OST*. Available at: https://www.youtube.com/watch?v=PzMvbayxxjc&ab_channel=GothicSwarm. Accessed 20 Apr. 2024.
-## Lead your Fights
+## Lead Your Fights
 Slavov, B. (2023). *Lead your Fights* from *Baldur's Gate 3 OST*. Available at: https://www.youtube.com/watch?v=4-jpQe__e5s&ab_channel=BorislavSlavov. Accessed 20 Apr. 2024.
 ## Blood Starved Beast
 Saitoh, T. (2015). *Blood Starved Beast* from *Bloodborne OST*. Available at: https://www.youtube.com/watch?v=CvUmL8uaE48&ab_channel=Shirrako. Accessed 20 Apr. 2024.
@@ -30,5 +30,5 @@ Silantyev, D.V. (2021a). *Master of My Own Fate* from *Pathfinder: Wrath of the 
 Silantyev, D.V. (2018b). *Bittersweet* from *Pathfinder: Kingmaker OST*. Available at: https://www.youtube.com/watch?v=UIHwQGB-hkw&ab_channel=GothicSwarm. Accessed 20 Apr. 2024.
 ## The Proud, The Bitter, The Fallen
 Silantyev, D.V. (2018c). *The Proud, The Bitter, The Fallen* from *Pathfinder: Kingmaker OST*. Available at: https://www.youtube.com/watch?v=g57YVbiGmwY&ab_channel=GothicSwarm. Accessed 20 Apr. 2024.
-## Laughing till the end
+## Laughing till the End
 Silantyev, D.V. (2021b). *Laughing till the end* from *Pathfinder: Wrath of the Righteous OST*. Available at: https://www.youtube.com/watch?v=_zCiYBhs0Uw&ab_channel=DmitryV.Silantyev. Accessed 20 Apr. 2024.

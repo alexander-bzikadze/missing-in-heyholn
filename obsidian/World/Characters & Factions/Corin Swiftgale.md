@@ -11,7 +11,7 @@
 - **Goal**: Become new town mayor
 - **Attitude**: Busy
 - **Stake**: Invested in their career progression
-- **Sexuality**: Male, heterosexual
+- **Sexuality**: Heterosexual
 ## Biography
 Corin Swiftgale has long served as the assistant to Mayor [[Eldric Baneswood]] of Heyholn, handling the day-to-day operations with a diligence that belies his true ambitions. Born into a family of modest means, Corin always dreamed of a life beyond the administrative duties assigned to him, especially harboring a deep-seated desire to master the arcane arts. Despite his position, he found himself kept at arm's length from the mayor's most confidential endeavors, a decision stemming from Eldric's intuition about Corin's distracted, dream-filled gaze towards the magical.
 ## Character

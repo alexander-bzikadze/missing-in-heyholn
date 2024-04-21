@@ -11,8 +11,12 @@
             "id": "cb47a8ca47e98a89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -173,51 +181,50 @@
   },
   "active": "cb47a8ca47e98a89",
   "lastOpenFiles": [
-    "obsidian/Story/Act 0.md",
-    "obsidian/Story/Act 1.md",
-    "obsidian/Story/Act 2.md",
+    "obsidian/Games/20240427/Players.md",
+    "obsidian/Music/Index.md",
     "obsidian/Story/Act 3.md",
-    "obsidian/Story/Draft.md",
-    "obsidian/Story/Player Questionnaire.md",
-    "obsidian/World/Characters & Factions/Boy.md",
-    "obsidian/World/Artifacts/Dorian's Diary.md",
-    "obsidian/World/Artifacts/Mayor's Plan.md",
-    "obsidian/World/Artifacts/Amulet of Slow Consumption.md",
-    "obsidian/World/Artifacts/Missing Mayor Order.md",
-    "obsidian/World/Artifacts/Address Book.md",
+    "obsidian/World/Monsters/Sleepwalkers.md",
+    "obsidian/World/Characters & Factions/Lunara.md",
     "obsidian/World/Monsters/False Hydra.md",
+    "obsidian/World/Characters & Factions/Kim.png",
     "obsidian/World/Locations/Pour Yourself.md",
     "obsidian/World/Locations/Catavern.md",
-    "obsidian/World/Locations/Townhall.md",
-    "obsidian/World/Locations/Mayor's House.md",
-    "obsidian/World/Locations/Heyholn.md",
-    "obsidian/World/Characters & Factions/Corin Swiftgale.md",
-    "obsidian/World/Characters & Factions/Dorian.md",
-    "obsidian/World/Characters & Factions/Elandor.md",
-    "obsidian/World/Characters & Factions/Eldric Baneswood.md",
+    "obsidian/World/Characters & Factions/Kim.md",
+    "obsidian/Story/Act 2.md",
+    "obsidian/Story/Act 1.md",
+    "obsidian/Story/Act 0.md",
+    "obsidian/Story/Player Questionnaire.md",
+    "obsidian/World/Artifacts/Amulet of Slow Consumption.md",
+    "obsidian/Story/Background.md",
+    "obsidian/Story/Draft.md",
+    "obsidian/Music/House of Blossoms.mp3",
+    "obsidian/Music/He Who Leads The Hunt.mp3",
+    "obsidian/Music/Blood Starved Beast.mp3",
+    "obsidian/Music/Bad Romance (Bardcore Cover).webm",
+    "obsidian/Games/20240427/Session.md",
     "obsidian/World/Characters & Factions/Gambaridze.md",
     "obsidian/World/Characters & Factions/Gearheart.md",
-    "obsidian/World/Characters & Factions/Gearheart.png",
-    "obsidian/World/Characters & Factions/Kim.md",
-    "obsidian/World/Characters & Factions/Lunara.md",
-    "obsidian/Games/20240427/Announcement.png",
-    "obsidian/Games/20240427",
-    "obsidian/music/4 (Battle) Separate Ways (Worlds Apart).mp3",
-    "obsidian/music/2 (Battle) Bastard.mp3",
-    "obsidian/music/4 (Riddle) Core of the Riddle.mp3",
-    "obsidian/music/3 (Tavern) Cancion Del Mariachi.mp3",
-    "obsidian/music/4 (Final) Lord of the Dead.mp3",
-    "obsidian/music/4 (Final) Laughing till the End.mp3",
-    "obsidian/music/4 (Resistance) Master of My Own Fate.mp3",
-    "obsidian/music/4 (Final) The Cosmic Balance.mp3",
-    "obsidian/music/3 (Elevation) My Dark Disquiet.mp3",
+    "obsidian/World/Monsters/False Hydra.png",
+    "obsidian/World/Characters & Factions/Corin Swiftgale.md",
     "obsidian/World/Characters & Factions/Boy.png",
+    "obsidian/World/Characters & Factions/Dorian.md",
+    "obsidian/World/Characters & Factions/Eldric Baneswood.md",
+    "obsidian/World/Characters & Factions/Elandor.md",
+    "obsidian/World/Characters & Factions/Boy.md",
+    "obsidian/World/Characters & Factions/Borgin Silentstone.md",
+    "obsidian/Music/A Watering Hole in the Harbor.mp3",
+    "obsidian/Music/Marble Machine.mp3",
+    "obsidian/Music/A World of Madness.mp3",
+    "obsidian/Music/Made of Words.mp3",
+    "obsidian/Music/Swamps.mp3",
+    "obsidian/Music/Hunt or Be Hunted.mp3",
+    "obsidian/World/Characters & Factions/Gearheart.png",
+    "obsidian/Games/20240427/Announcement.png",
     "obsidian/World/Characters & Factions/Gambaridze at his Prime.png",
     "obsidian/World/Characters & Factions/Gambaridze the Janitor.png",
     "obsidian/World/Artifacts/Amulet of Slow Consumption.png",
     "obsidian/World/Artifacts/Amulet of Slow Consumption 1.png",
-    "obsidian/World/Characters & Factions/Eldric Baneswood.png",
-    "obsidian/World/Characters & Factions/Lunara the Benevolent.png",
-    "obsidian/World/Characters & Factions/Lunara the Avengeful.png"
+    "obsidian/World/Characters & Factions/Eldric Baneswood.png"
   ]
 }

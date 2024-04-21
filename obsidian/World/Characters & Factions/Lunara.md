@@ -11,7 +11,7 @@
 - **Goal**: Enact revenge on everybody who wronged her
 - **Attitude**: Enraged
 - **Stake**: Nothing left to lose
-- **Sexuality**: Female, bisexual
+- **Sexuality**: Bisexual
 ## Biography
 
 Lunara, a dreamwalker of the Feywild, finds joy in weaving through the dreams of mortals, granting their wishes within the ephemeral realms of their slumber. Known for her benevolent heart and whimsical nature, she embodies the essence of capricious fey magic, touching lives with gentle dreams and hopes. However, her light-hearted demeanor masks a depth of emotion and power, for when betrayed, Lunara reveals a darker aspect of her being. She then harnesses her dreamwalking ability not to enchant, but to awaken the deepest fears in those who wrong her, a testament to her complex nature as an archfey.
@@ -60,6 +60,8 @@ traits:
   - name: Legendary resistance (5/day)
     desc: If Lunara fails a saving throw, she can choose to succeed instead.
 actions:
+  - name: Mass Dream
+    desc: Lunara is able to put in a dream entire towns, commanding the bodies of the sleepers. She can only harm them through sending nightmares (spell weird), while commanding their bodies.
   - name: Multiattack
     desc: Lunara makes three glittering claw attacks.
   - name: Glittering Claw (natural weapon)

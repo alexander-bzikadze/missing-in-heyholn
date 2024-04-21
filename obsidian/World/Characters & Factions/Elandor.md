@@ -12,7 +12,7 @@
 - **Goal**: Create a cat haven
 - **Attitude**: Relaxed
 - **Stake**: Would kill for his cats
-- **Sexuality**: Male, heterosexual
+- **Sexuality**: Heterosexual
 ### Biography
 Elandor, a retired ranger, founded [[Catavern]] after decades of adventure. Born to merchants, he was drawn to the wild, honing his skills against bandits and beasts. His wanderlust eventually gave way to a desire for a peaceful life, where he could share tales and provide a haven for travelers and felines alike.
 ### Character

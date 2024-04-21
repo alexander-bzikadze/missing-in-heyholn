@@ -11,7 +11,7 @@
 - **Goal**: Become a demigod
 - **Attitude**: Ambitious, calculative
 - **Stake**: Committed
-- **Sexuality**: Male, bisexual
+- **Sexuality**: Bisexual
 ## Biography
 Dorian, an elven artificer of remarkable intellect and ambition, walks the fine line between genius and hubris. Born into a lineage celebrated for their mastery of magic and artifice, Dorian's dreams always soared beyond the achievements of his ancestors. His vision of utopia is one where he ascends to a benevolent demigod, ruling over a realm where his subjects exist in perpetual bliss, forever locked within their happiest dreams. To achieve this grand design, Dorian has crafted a device of terrifying power and ingenuity, capable of consuming the very essence of creatures trapped within its mechanism, a power not limited by the strength of its victims, daring to challenge even demon lords and archfeys: the [[Amulet of Slow Consumption]].
 

@@ -2,7 +2,6 @@
 > Designed by the ambitious elf [[Dorian]], the Amulet of Slow Consumption is a deceptively elegant artifact that traps and assimilates creatures' essences, granting the wearer their powers.
 
 Creator: [[Dorian]]
-Design: TBD
 ## Background 
 The Amulet of Slow Consumption is the magnum opus of the elven artificer [[Dorian]], a manifestation of his ambition and intellect. The amulet requires the knowledge of a creature's true name to function. Its creation was motivated by Dorian's desire to ascend beyond his mortal confines and to exercise control over the very essence of life and magic.
 ## Powers

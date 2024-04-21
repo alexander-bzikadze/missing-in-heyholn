@@ -1,12 +1,12 @@
 ## Questionnaire
 Based on [[Player Questionnaire]]
 
-| Question / Player | Beleanor                 | Gaddock               | Nel                      | Rolan |
-| ----------------- | ------------------------ | --------------------- | ------------------------ | ----- |
-| Cats              | No                       | No                    | No                       |       |
-| Nightmare         | Let his party down again | Lose his family again | Meet her sister too soon |       |
-| Dream             | Come back home           |                       |                          |       |
-| Pet               | Astral Dragon?           |                       |                          |       |
+| Question / Player | Beleanor                 | Gaddock               | Nel                      | Rolan                                             |
+| ----------------- | ------------------------ | --------------------- | ------------------------ | ------------------------------------------------- |
+| Cats              | No                       | No                    | No                       | No?                                               |
+| Nightmare         | Let his party down again | Lose his family again | Meet her sister too soon | Be helpless in the face of injustice or commit it |
+| Dream             | Come back home           |                       |                          | Find his place in this world                      |
+| Pet               | Astral Dragon?           |                       |                          |                                                   |
 ## Beleanor
 Beleanor is a astral elf navigator, believer of Celestian. His ship crashed and now he is continuing his journey through Faerun. He wants to learn more about this world until Celestian shows him the way back home.
 ## Gaddock

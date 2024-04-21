@@ -11,7 +11,7 @@
 - **Goal**: Be praised
 - **Attitude**: Friendly
 - **Stake**: Very young to understand
-- **Sexuality**: Male, N/A
+- **Sexuality**: N/A
 ## Biography
 Kim is a young gnome who has grown up within the walls of the [[Pour Yourself]] Tavern, a place teeming with magical automation and gnome ingenuity. His parents, brilliant inventors and the original founders of the tavern, mysteriously disappeared when he was younger. Unbeknownst to him, false hydra has clouded his memory of their absence, allowing him to continue the tavern's operations with the help of an automaton left in their stead.
 ## Character
