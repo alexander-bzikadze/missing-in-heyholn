@@ -69,6 +69,9 @@ His board reveals:
 > At some point mayor starts mentioning _it_, without specifying it.
 #### Council Chambers
 Nothing important in here, half-in-ruin. PCs can use it as a war room.
+
+> [!note] Check
+> Investigation or perception DC 20 will reveal a ring of water walking.
 #### Town Library
 > [!tip]
 > PCs can conduct research using this library.

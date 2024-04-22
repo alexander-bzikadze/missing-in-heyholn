@@ -26,7 +26,7 @@ Once the nightmares are defeated, the encounter continues.
 
 PCs need to engage in a duel of creative transformation. As they are in a dream, they can take any form to defeat their opponent's form.
 
-Each side takes three turns, and each turn is interpreted as an attack, that is rolled from a specific stat and deals `1d8 + modifier` of physic damage. [[Lunara]] deals attack to all PCs simultaneously, each player rolls in return. 
+Each side takes three turns, and each turn is interpreted as an attack, that is rolled from a specific stat and deals `1d8 + modifier + profience bonus (if spellcasting ability)` of physic damage. [[Lunara]] deals attack to all PCs simultaneously, each player rolls in return. 
 - First round is Intelligence
 - Second round is Wisdom
 - Third round is Charisma

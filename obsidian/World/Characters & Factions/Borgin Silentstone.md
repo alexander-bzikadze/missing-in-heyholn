@@ -1,5 +1,5 @@
 > [!abstract]
-> At the "Pour Yourself" tavern, Borgin Silentstone, an old dwarf, remains untouched by a false hydra due to his deafness.
+> At the [[Pour Yourself]] tavern, Borgin Silentstone, an old dwarf, remains untouched by a false hydra due to his deafness.
 
 **Name:** Borgin Silentstone  
 **Race:** Dwarf  

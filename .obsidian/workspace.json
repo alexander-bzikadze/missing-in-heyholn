@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f84e8d381c614d",
+        "id": "baf912521751c7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "cb47a8ca47e98a89",
+            "id": "ad48d7c16ef57e11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,21 +171,30 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "cb47a8ca47e98a89",
+  "active": "ad48d7c16ef57e11",
   "lastOpenFiles": [
+    "obsidian/Story/Act 1.md",
+    "obsidian/Story/Act 2.md",
+    "obsidian/World/Characters & Factions/Lunara.md",
+    "obsidian/World/Locations/Heyholn.md",
+    "obsidian/World/Artifacts/Wand of Deafness.md",
+    "obsidian/World/Monsters/False Hydra.md",
+    "obsidian/World/Locations/Heyholn.canvas",
+    "obsidian/Story/Act 0.md",
+    "obsidian/Story/Act 3.md",
+    "obsidian/World/Locations/Pour Yourself.md",
+    "obsidian/World/Characters & Factions/Borgin Silentstone.md",
+    "obsidian/World/Artifacts/Mayor's Plan.md",
+    "obsidian/World/Artifacts/Dorian's Diary.md",
+    "obsidian/Inspiration.md",
+    "obsidian/Games/20240427/Session.md",
+    "README.md",
     "obsidian/Games/20240427/Players.md",
     "obsidian/Music/Index.md",
-    "obsidian/Story/Act 3.md",
     "obsidian/World/Monsters/Sleepwalkers.md",
-    "obsidian/World/Characters & Factions/Lunara.md",
-    "obsidian/World/Monsters/False Hydra.md",
     "obsidian/World/Characters & Factions/Kim.png",
-    "obsidian/World/Locations/Pour Yourself.md",
     "obsidian/World/Locations/Catavern.md",
     "obsidian/World/Characters & Factions/Kim.md",
-    "obsidian/Story/Act 2.md",
-    "obsidian/Story/Act 1.md",
-    "obsidian/Story/Act 0.md",
     "obsidian/Story/Player Questionnaire.md",
     "obsidian/World/Artifacts/Amulet of Slow Consumption.md",
     "obsidian/Story/Background.md",
@@ -202,17 +203,10 @@
     "obsidian/Music/He Who Leads The Hunt.mp3",
     "obsidian/Music/Blood Starved Beast.mp3",
     "obsidian/Music/Bad Romance (Bardcore Cover).webm",
-    "obsidian/Games/20240427/Session.md",
     "obsidian/World/Characters & Factions/Gambaridze.md",
     "obsidian/World/Characters & Factions/Gearheart.md",
     "obsidian/World/Monsters/False Hydra.png",
-    "obsidian/World/Characters & Factions/Corin Swiftgale.md",
     "obsidian/World/Characters & Factions/Boy.png",
-    "obsidian/World/Characters & Factions/Dorian.md",
-    "obsidian/World/Characters & Factions/Eldric Baneswood.md",
-    "obsidian/World/Characters & Factions/Elandor.md",
-    "obsidian/World/Characters & Factions/Boy.md",
-    "obsidian/World/Characters & Factions/Borgin Silentstone.md",
     "obsidian/Music/A Watering Hole in the Harbor.mp3",
     "obsidian/Music/Marble Machine.mp3",
     "obsidian/Music/A World of Madness.mp3",

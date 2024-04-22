@@ -1,0 +1,1 @@
+Allows to cast Deafness on others or in a radius from the wand.
