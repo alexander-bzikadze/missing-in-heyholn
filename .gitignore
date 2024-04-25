@@ -1,0 +1,11 @@
+.obsidian/workspace.json
+.obsidian/workspace/*
+.obsidian/plugins/*/data.json
+
+
+# Exclude Untitled Notes
+Untitled*
+# Exclude "bad" names
+null*
+
+.DS_Store
