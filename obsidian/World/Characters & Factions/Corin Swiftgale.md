@@ -2,7 +2,7 @@
 > Corin Swiftgale, the ambitious yet underestimated assistant to Mayor [[Eldric Baneswood]], harbors a secret desire to unlock the mysteries of magic, despite never fully earning the trust to be privy to Heyholn's deepest secrets.
 
 **Name:** Corin Swiftgale  
-**Race:** Halfling  
+**Race:** Halfling
 **Gender:** Male  
 **Age:** 35 years old
 **Cogass**:

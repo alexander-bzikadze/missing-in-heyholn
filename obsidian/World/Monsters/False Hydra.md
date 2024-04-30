@@ -51,11 +51,13 @@ traits:
   - name: Legendary resistance (3/day)
     desc: If the false hydra fails a saving throw, it can choose to succeed instead.
   - name: Multiple heads
-    desc: In addition to the torso, each False Hydra's heads have their own actions and reactions.
+    desc: In addition to the torso, each False Hydra's heads have their own actions and reactions. With each head lost, False Hydra receives 2 additional AC or add resistance to damage, depending on the final blow and DM's decision.
+  - name: Swamp Lair
+    desc: False Hydra always considers swamp as normal terrain and cannot be slowed down by it. 
 legendary_description: The false hydra can take 1 legendary actions, choosing from the options below. It can only take one legendary action at a time and only at the end of another creature's turn. The false hydra regains spent legendary actions at the start of its turn.
 legendary_actions:
   - name: Sonic Pulse
-    desc: The false hydra targets a creature within range of one of its heads and blasts a cone of noise. Creatures within a 10 foot cone take 12 (4d6) sonic damage.
+    desc: The false hydra targets a creature within range of one of its heads and blasts a cone of noise. Creatures that are not other heads within a 10 foot cone take 12 (4d6) sonic damage.
 ```
 
 ## False Hydra's Head
@@ -67,7 +69,7 @@ type: Fey, limb
 alignment: Chaotic Evil
 ac: 10
 hp: 100
-speed: fly 30 ft.
+speed: fly 40 ft. (attached to body), swim 80 ft.
 stats: [20, 10, 20, 4, 19, 24]
 saves:
   - intelligence: 2
@@ -81,24 +83,31 @@ cr: 0
 languages: Understands the language of its victims
 name: False Hydra's Head
 traits:
-  - name: Tight Grapple
-    desc: If the target is Huge or smaller creature and is grappled, it takes 17 (3d8 + 5) constrict damage at the start of each of its turns until grapple ends. 
+  - name: Tight Restrain
+    desc: If the target is Huge or smaller creature and is restrained, it takes 17 (3d8 + 5) constrict damage at the start of each of its turns until restrained condition ends.
   - name: Growing Head Illusion
-    desc: When a head dies, it emits gas that causes targets to believe new heads are growing. Other heads within 15 feet receive mirror image for 1 minute.
+    desc: When a head dies, it emits gas that causes targets to believe new heads are growing. Other heads within 15 ft. radius receive mirror image for 1 minute.
 actions:
   - name: Bite
-    desc: Melee Weapon Attack_ +11 to hit, one target. On successful hit deals 17 (2d12 + 5) bludgeoning/slashing/piercing damage.
+    desc: Melee Weapon Attack_ +11 to hit, one target. On successful hit deals 15 (2d10 + 5) piercing damage and be grappled.
+  - name: Restrain
+    desc: The false hydra's head restrains a grappled by it target. The target may expend an action to succeed a DC 25 Strength saving throw to free itself.
   - name: Engulf
     desc: The false hydra's head engulfs a Large or smaller creature, grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 25 Constitution saving throw at the start of each of the false hydra head's turns or take 30 (4d10+10) bludgeoning damage. If the false hydra's head moves, the engulfed target moves with it. The false hydra can only have one creature engulfed at a time. If the target's HP drops to 0 while engulfed, or dies, it is immediately consumed.
+bonus_actions:
+  - name: Hide
+    desc: The false hydra's head hides under the water.
 ```
 ## Severed False Hydra's Head
+If blowing strike to the head is done with slashing damage, the head becomes "Severed False Hydra's Head" and is incapacitated for one round.
+
 ```statblock
 size: Medium
 type: Fey, limb
 alignment: Chaotic Evil
 ac: 10
 hp: 50
-speed: fly 30 ft.
+speed: 20 ft., swim 80 ft.
 stats: [20, 10, 20, 4, 19, 24]
 saves:
   - intelligence: 2
@@ -112,11 +121,18 @@ cr: 0
 languages: Understands the language of its victims
 name: Severed False Hydra's Head
 traits:
-  - name: Tight Grapple
-    desc: If the target is Huge or smaller creature and is grappled, it takes 17 (3d8 + 5) constrict damage at the start of each of its turns until grapple ends. 
+  - name: Tight Restrain
+    desc: If the target is Huge or smaller creature and is restrained, it takes 17 (3d8 + 5) constrict damage at the start of each of its turns until restrained condition ends.
+  - name: Growing Head Illusion
+    desc: When a head dies, it emits gas that causes targets to believe new heads are growing. Other heads within 15 feet receive mirror image for 1 minute.
 actions:
   - name: Bite
-    desc: Melee Weapon Attack_ +11 to hit, one target. On successful hit deals 17 (2d12 + 5) bludgeoning/slashing/piercing damage.
+    desc: Melee Weapon Attack_ +11 to hit, one target. On successful hit deals 15 (2d10 + 5) piercing damage and be grappled.
+  - name: Restrain
+    desc: The false hydra's head restrains a grappled by it target. The target may expend an action to succeed a DC 25 Strength saving throw to free itself.
   - name: Engulf
     desc: The false hydra's head engulfs a Large or smaller creature, grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 25 Constitution saving throw at the start of each of the false hydra head's turns or take 30 (4d10+10) bludgeoning damage. If the false hydra's head moves, the engulfed target moves with it. The false hydra can only have one creature engulfed at a time. If the target's HP drops to 0 while engulfed, or dies, it is immediately consumed.
+bonus_actions:
+  - name: Hide
+    desc: The false hydra's head hides under the water.
 ```

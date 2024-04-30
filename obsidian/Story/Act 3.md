@@ -34,9 +34,11 @@ Each side takes three turns, and each turn is interpreted as an attack, that is 
 > [!info] Music
 > [[Index#The Proud, The Bitter, The Fallen]] (Silantyev, D.V., 2018c)
 
+	TODO: add resist fire, cold, lightning, resist against magic, immune to non-magical but vulnarable to thunder
+
 After receiving some damage, [[Lunara]]'s grip breaks and the fight transfers back to the mortal realm. [[Lunara]] is weakened, but standing.
 
-As the battle continues, [[Lunara]] may spend an action to bring 10 sleepwalking villagers that attack PCs. It is up to PCs to kill or defeat them.
+As the battle continues, [[Lunara]] may spend an action to bring 16 sleepwalking villagers that attack PCs. It is up to PCs to kill or defeat them.
 
 > [!faq] Player Questionnaire
 > If a player HP is halved, it may receive a pet from the dream realm to assist in the fight.
@@ -49,7 +51,7 @@ creatures:
 ---
 name: "Sleeping Villagers"
 creatures:
-  - 10: "Sleepwalker"
+  - 4: "Sleepwalkers"
 ```
 
 ## Aftermath (0.5h)

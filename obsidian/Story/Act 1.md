@@ -58,7 +58,7 @@ From the [[Corin Swiftgale]]'s office, PCs can reach mayor's office, but they ne
 Mayor office has clear indications of mayor existence and the fact, that he conducted an investigation. 
 
 > [!note] Check
-> Investigation or perception DC 20 will reveal a wooden board with mayor's investigation materials, facing the wall.
+> Investigation or perception DC 15 will reveal a wooden board with mayor's investigation materials, facing the wall.
 
 His board reveals:
 - proof that people disappear without a trace.
@@ -81,7 +81,7 @@ Nothing important in here, half-in-ruin. PCs can use it as a war room.
 
 It is a small two-stores house: cabinet/kitchen on the first, second is bedroom.
 > [!note] Check
-> Perception DC 20 reveals a [[Dorian's diary]] between the planks.
+> Perception DC 15 reveals a [[Dorian's diary]] between the planks.
 
 Dorian's diary in a poetic manner reveals:
 * His plan to seduce [[Lunara]].
@@ -124,6 +124,8 @@ If PCs cannot find anything, an episode can be given to them: they hear crush of
 > [!faq] Player Questionnaire
 > [[Player Questionnaire#Dream]]
 
-When PCs are down and sleeping, Lunara sends them a common dream. It is obscure, but Lunara is able to communicate that a beast is terrorising the village.
+When PCs are down and sleeping, Lunara sends them a common dream. It is obscure, but Lunara is able to communicate that a beast is terrorising the village and/or Lunara is in chains.
+
+Upon waking up, [[Kim]] is gone and nowhere to be seen nor remembered.
 ## Time
 Act 1: 4.5h.

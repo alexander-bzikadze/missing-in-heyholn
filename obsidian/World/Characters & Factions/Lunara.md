@@ -33,7 +33,7 @@ size: Medium
 type: Fey
 alignment: Chaotic Evil
 ac: 18
-hp: 500
+hp: 330
 speed: 30 ft.
 stats: [16, 24, 16, 18, 22, 22]
 saves:
@@ -47,15 +47,17 @@ skillsaves:
   - nature: +11
   - perception: +11
   - persuasion: +11
-condition_immunities: charmed, paralyzed, poisoned, unconscious
+condition_immunities: charmed, exhaustion, paralyzed, poisoned, unconscious
+damage_immunities: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+damage_vulnerabilities: Necrotic
 senses: truesight 60ft., Passive Perception 21
 cr: 14
 languages: All
 spells:
   - Lunara spellcasting ability is Charisma (spell save DC 19). She can innately cast the following spells, requiring no material components.
-  - "At will: animal messenger, detect evil and good, detect magic, disguise self"
-  - "3/day each: charm person, scrying, zone of truth"
-  - "1/day each: dream, geas, heroes feast, magic circle, polymorph (self only)"
+  - "At will: disguise self, feather fall, polymorph (self only)"
+  - "3/day each: shield, counterspell (up to 5th circle), fireball"
+  - "1/day each: wall of thorns, darkness"
 traits:
   - name: Legendary resistance (5/day)
     desc: If Lunara fails a saving throw, she can choose to succeed instead.
@@ -77,7 +79,7 @@ actions:
   - name: The target is poisoned
     desc: It can repeat the saving throw at the end of each of its turns ending the effect on itself on a success.
   - name: Weird (9th-Level)
-    desc: The archfey terrifies creatures with their own worst nightmares. Each creature within 30 feet of a point within 120 feet makes a DC 19 Wisdom saving throw. On a failure the creature is frightened for 1 minute. At the end of each of the creatures turns the creature takes 22 (4d10) psychic damage and then repeats the saving throw ending the effect on itself on a success.
+    desc: Lunara terrifies creatures with their own worst nightmares. Each affacted creature makes a DC 30 Wisdom saving throw. On a failure the creature is frightened for 1 minute. At the end of each of the creatures turns the creature takes 22 (4d10) psychic damage and then makes a DC 20 saving throw ending the effect on itself on a success.
 bonus_actions:
   - name: Faerie Step (Recharge 5-6)
     desc: Lunara magically teleports up to 60 feet to a space it can see.
@@ -86,10 +88,10 @@ reactions:
     desc: When Lunara is hit by a melee attack made by a creature it can see, it makes a glittering scimitar attack against the attacker.
   - name: Vengeful Eye
     desc: When Lunara is hit by a ranged attack or targeted with a spell by a creature within 60 feet, it uses Evil Eye on the attacker if they can see each other.
-legendary_description: Lunara can take 3 legendary actions, choosing from the options below. It can only take one legendary action at a time and only at the end of another creature's turn. Lunara regains spent legendary actions at the start of its turn.
+legendary_description: Lunara can take 2 legendary action, choosing from the options below. It can only take one legendary action at a time and only at the end of another creature's turn. Lunara regains spent legendary actions at the start of its turn.
 legendary_actions:
   - name: Scream of Pain
-    desc: If Lunara's HP are halved, she can blast a powerful scream that pushes away everybody within 15 ft. sphere, requiring DC 19 Strength to resist, otherwise dealing 5 (1d10) bludgeoning damage and pushing 20 ft. away. Every creature within 60 ft. makes a DC Constitution saving throw or take 22 (3d10+7) sonic damage.
+    desc: If Lunara's receives more than 50 HP in one round, she can blast a powerful scream that pushes away everybody within 15 ft. sphere, requiring DC 19 Strength to resist, otherwise dealing 5 (1d10) bludgeoning damage and pushing 20 ft. away. Every creature within 60 ft. makes a DC Constitution saving throw or take 22 (3d10+7) sonic damage.
   - name: Thorn Whip
     desc: Lunara can cast Thorn Whip and deal 12 (3d8) piercing damage.
 ```
